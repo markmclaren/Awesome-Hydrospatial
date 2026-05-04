@@ -223,7 +223,7 @@ FOSSOM is developed by institutions, researchers and enthusiasts, providing tool
 -  [NCEI Seafloor Mapping Tools](https://www.ncei.noaa.gov/products/seafloor-mapping). NOAA National Centers for Environmental Information (NCEI) provides depth data acquired by hydrographic, oceanographic, and industry vessels and platforms during surveys or while on passage. These data, which are used in several national and international mapping bathymetry projects, are free to the public with no restrictions.
 -  [NOAA Water-Column Sonar Data Archive](https://registry.opendata.aws/ncei-wcsd-archive/) hosts water-column sonar data archived at the NOAA National Centers for Environmental Information.
 -  [TPXO Web Service](https://tpxows.azurewebsites.net/)  provides tide forecast/backcast at any location/time using latest version of the global barotropic model TPXO9-atlas  
-
+-  [Global Bathymetry PMTiles](https://github.com/markmclaren/global-bathymetry-pmtiles) An open-source global bathymetry explorer using the GEBCO 2026 grid. The data is optimized into a 6GB PMTiles archive hosted on HuggingFace, allowing for high-performance, serverless visualization via MapLibre GL JS without the need for a traditional tile server.
 
 ### Magazines, journals and blogs.
 - [The International Hydrographic Review](https://journals.lib.unb.ca/index.php/ihr/index) is an international journal by IHO publishing original works on all aspects of hydrography and associated subjects, ranging from the latest technical developments to history
